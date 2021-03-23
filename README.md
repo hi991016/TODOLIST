@@ -1,3 +1,5 @@
+REACTJS + REDUX TODOLIST
+
 1. Git clone
 2. Npm install
 3. yarn start
